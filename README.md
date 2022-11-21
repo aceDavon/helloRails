@@ -1,7 +1,8 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# HelloRails
+
+This is the first rails project for the microverse module 5 (Rails) requirement
 
 Things you may want to cover:
 
